@@ -17,8 +17,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true 
+      read_time: true
 
-title: roobixx
+
+title: Roobixx
 email: tim@roobixx.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -29,11 +38,34 @@ url: "https://roobixx.com" # the base hostname & protocol for your site, e.g. ht
 twitter_username: roobixx
 github_username:  roobixx
 repository: roobixx/test_rbx
-feed: false
+# logo: "/assets/images/88x88.png"
+masthead_title: "{roobixx}"
+atom_feed: 
+  hide: true
+search: true
+
+author:
+  name: "Tim Fowler"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "I think therefor I win"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/roobixx"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/roobixx"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discordapp.com/users/roobixx#7156"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"   
+      url: "mailto:tim@roobixx.com"
 
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "contrast"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
