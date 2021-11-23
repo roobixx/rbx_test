@@ -47,7 +47,7 @@ search: true
 author:
   name: "Tim Fowler"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "I think therefor I win"
+  bio: "OSCE<code>|</code>OSCP<code>|</code>OSWP"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
