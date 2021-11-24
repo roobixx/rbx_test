@@ -2,7 +2,7 @@
 id: 56
 title: 'All Things Open &#8211; Day Two'
 author: roobixx
-layout: post
+layout: posts
 guid: http://www.roobixx.com/?p=56
 permalink: /events/all-things-open-day-two/
 categories:

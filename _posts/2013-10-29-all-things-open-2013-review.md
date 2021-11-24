@@ -2,7 +2,7 @@
 id: 58
 title: 'All Things Open 2013 &#8211; Review'
 author: roobixx
-layout: post
+layout: posts
 guid: http://www.roobixx.com/?p=58
 permalink: /events/all-things-open-2013-review/
 categories:

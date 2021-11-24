@@ -2,7 +2,7 @@
 id: 53
 title: 'All Things Open 2013 &#8211; Day 1'
 author: roobixx
-layout: post
+layout: posts
 guid: http://www.roobixx.com/?p=53
 permalink: /events/all-things-open-2013-day-1/
 categories:

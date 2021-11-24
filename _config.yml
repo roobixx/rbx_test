@@ -71,3 +71,4 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
+google_analytics: UA-60265526-1
