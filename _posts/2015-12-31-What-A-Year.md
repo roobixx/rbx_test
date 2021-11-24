@@ -1,7 +1,7 @@
 ---
 title: '...and that is how you do it!'
-author: roobixx
 layout: posts
+author_profile: true
 ---
 
 >"One cannot expect to attain the highest point of exellence without hard work and perseverance.[...] Try to improve to some extent each day and to experience that satisfying pleasure in having conquered what at first seemed to be an impossibility!" - Clarke

@@ -1,12 +1,7 @@
 ---
-id: 56
 title: 'All Things Open &#8211; Day Two'
-author: roobixx
 layout: posts
-guid: http://www.roobixx.com/?p=56
-permalink: /events/all-things-open-day-two/
-categories:
-  - Events
+author_profile: true  
 ---
 Day Two at All Things Open was insane.
 

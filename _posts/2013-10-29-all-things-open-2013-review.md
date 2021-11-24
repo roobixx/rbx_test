@@ -1,12 +1,7 @@
 ---
-id: 58
 title: 'All Things Open 2013 &#8211; Review'
-author: roobixx
 layout: posts
-guid: http://www.roobixx.com/?p=58
-permalink: /events/all-things-open-2013-review/
-categories:
-  - Events
+author_profile: true
 ---
 <div>
   It was such an honor to be able to attend the inaugural <a href="http://allthingsopen.org/">All Things Open</a> conference in Raleigh, North Carolina last week. The event hosted of one of the best panel of speakers I have ever had the opportunity to hear and meet.  Every speaker I had the chance of hearing was great and I learned an enormous amount of information that I am able to bring back to my team at Sabai  and to the community I live in.

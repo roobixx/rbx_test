@@ -18,9 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 defaults:
-  # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       author_profile: true 

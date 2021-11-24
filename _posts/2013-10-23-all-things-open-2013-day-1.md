@@ -1,12 +1,7 @@
 ---
-id: 53
 title: 'All Things Open 2013 &#8211; Day 1'
-author: roobixx
 layout: posts
-guid: http://www.roobixx.com/?p=53
-permalink: /events/all-things-open-2013-day-1/
-categories:
-  - Events
+author_profile: true  
 ---
 Let me start by saying job well done to all people involved in making this event happen! WOW it is so good.
 

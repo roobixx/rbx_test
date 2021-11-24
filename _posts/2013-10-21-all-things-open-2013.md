@@ -1,12 +1,7 @@
 ---
-id: 25
 title: All Things Open 2013
-author: roobixx
 layout: posts
-guid: http://www.roobixx.com/?p=25
-permalink: /events/all-things-open-2013/
-categories:
-  - Events
+author_profile: true  
 ---
 <div style="width: 510px" class="wp-caption alignnone">
   <img alt="all-things-open-2013" src="http://fossforce.com/wp-content/uploads/2013/09/astro5-e1379963256161.jpg" width="500" height="216" />
